@@ -1,4 +1,4 @@
-### What you will find in this GitHub repository
+## What you will find in this GitHub repository
 
 In this respostory you will find the file, environment.yml, which sets the enviroment needed to run a Jupyter notebook 
 
