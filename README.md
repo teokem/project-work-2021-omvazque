@@ -17,6 +17,6 @@ In this respostory you will find the file, environment.yml, which sets the envir
   conda activate LUcompute	  
   ```
 5. Run the notebook by typing
-	```
-	jupyter notebook
-	```
+```
+jupyter notebook
+```
