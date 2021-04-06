@@ -2,7 +2,7 @@
 My research as a PhD student at the University of Lund, Sweden focuses in analysing data recorded by the ALICE experiment at CERN. From distributions constructed with real data, I apply statistical methods to study the phenomena from proton-proton and heavy-ion collisions and try to connect our observations with the underlying physics mechanisms.
 However I am also interested in applying my skills as an experimental physicist to investigate phenomena outside of academia, such as, the evolution of coronavirus disease 2019 (COVID-19) pandemic or to the industrial and finantial sectors. Having said that the purpose of the Jupyter notebook is to study the number of cases of COVID-19 in the USA. Such data is hosted by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University, Baltimore, MD, USA and can be found in the [GitHub repository](https://github.com/CSSEGISandData). Moreover, CSSE hosts an online interactive dashboard to visualise and track reported cases of COVID-19 in real time. More details can be found in [https://doi.org/10.1016/S1473-3099(20)30120-1](https://doi.org/10.1016/S1473-3099(20)30120-1).
 
-https://zenodo.org/badge/latestdoi/351793661
+[DOI](https://zenodo.org/badge/latestdoi/351793661)
 
 ## What you will find in this GitHub repository
 
