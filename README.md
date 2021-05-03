@@ -16,13 +16,22 @@ The purpose of this GitHub repository is to host the required files to run a Jup
 
 3. In the terminal, navigate to the folder you downloaded from GitHub
 
-4. Install the ``` LUcompute ``` environment by running the follwing lines  
+4. Install the ``` Project_Omar ``` environment by running the follwing lines  
 	
   ```
   conda env create -f environment.yml
-  conda activate LUcompute	  
+  conda activate Project_Omar	  
   ```
 5. Run the notebook by typing
 ```
 jupyter notebook
 ```
+
+## Environment packages
+* `python=3` needed to interpet python code
+* `notebook` required to run the notebook
+* `numpy` library for python  that handles numerical/scientific calculations
+* `pandas` used for data manipulation. It offers data structures and operations for manipulating numerical tables
+* ` matplotlib` used for plotting 
+* ` seaborn` provides high-level interface for drawing attractive and informative statistical graphics
+* ` pip` used to install and manage additional software packages
