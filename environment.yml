@@ -1,22 +1,11 @@
-name: LUcompute
+name: Project_Omar
 channels:
   - conda-forge
 dependencies:
   - python=3
-  - matplotlib
-  - bokeh
-  - ipywidgets
   - notebook
   - numpy
-  - openpyxl
   - pandas
-  - pip
-  - scipy
+  - matplotlib
   - seaborn
   - pip
-  - xlrd
-  - lxml
-  - cryptography
-  - simplegeneric
-  - cython
-  - geopandas
