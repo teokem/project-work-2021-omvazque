@@ -35,5 +35,4 @@ jupyter notebook
 * `numpy` library for python  that handles numerical/scientific calculations
 * `pandas` used for data manipulation. It offers data structures and operations for manipulating numerical tables
 * ` matplotlib` used for plotting 
-* ` seaborn` provides high-level interface for drawing attractive and informative statistical graphics
 * ` pip` used to install and manage additional software packages
