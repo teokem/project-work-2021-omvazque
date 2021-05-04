@@ -4,6 +4,8 @@ However I am also interested in applying my skills as an experimental physicist 
 
 [![DOI](https://zenodo.org/badge/351793661.svg)](https://zenodo.org/badge/latestdoi/351793661)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/teokem/project-work-2021-omvazque/HEAD?filepath=test.ipynb)
+
 ## What you will find in this GitHub repository
 
 The purpose of this GitHub repository is to host the required files to run a Jupyter notebook. You will find the file ``` environment.yml ```, which sets the enviroment needed to run the Jupyter notebook 
