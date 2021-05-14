@@ -1,0 +1,10 @@
+name: Project_Omar
+channels:
+  - conda-forge
+dependencies:
+  - python=3
+  - notebook
+  - numpy
+  - pandas
+  - matplotlib
+  - pip
